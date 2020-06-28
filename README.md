@@ -2,4 +2,4 @@
 
 Implemented the forward pass and backpropagation for a convolutional neural network with sparse inputs for text classifcation.
 
-![Image of CNN architecture used](/Images/CNNForText.png)
+![Image of CNN architecture used](/Images/CNNForText.PNG)
